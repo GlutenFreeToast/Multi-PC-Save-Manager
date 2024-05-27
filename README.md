@@ -6,7 +6,7 @@ If you have multiple gaming PCs (or just need to sync saves) you can use this to
 # What Its Doing:
 - Asks if you want to upload or install.
 - [Upload] Copies APPDATA from source PC (Will delete previous backup if it exists.)
-- [Install] Installs the files and folders on destination PC. (It only copies the saves of programs/games that are installed on both the source and destination PCs.)
+- [Install] Installs the files and folders that are on the flashdrive and the destination PC.
 
 # Other Info
 - Batch/CMD file (I'm dumb and it's good enough)
