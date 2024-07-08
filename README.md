@@ -4,7 +4,12 @@ Copy saves between computers easily and quickly!
 If you have multiple gaming PCs (or just need to sync saves) you can use this tool to upload and install saves from a flash drive.
 - ![image](https://github.com/IHateMakingUsernamesForStuff/Multi-PC-Save-Manager/assets/153030981/387252c7-597b-40a3-8fc9-7d1103ef9591)
 
-
+# How to use
+- For first time setup, select option 3 (Recommended to run in background, takes a while.)
+- For every susequent use, you can:
+- Use option 2 to install
+- Use option 1 to update (faster than option 3, but doesnt copy saves from NEW games.)
+- If you have new games/programs, run option 3 again.
 
 # What Its Doing:
 - Asks if you want to update, install, upload, or delete.
